@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on sgitg，i am a software engineer.
+- 🌱 Coding is my passion,i’m currently learning rust/go.
+- 👯 I’m looking to collaborate on blockchain.
+- 📫 The best way to contact me is to send me an email.
+- ⚡ Fun fact: 
